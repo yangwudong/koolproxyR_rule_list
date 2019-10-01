@@ -163,7 +163,6 @@ https://www.douyu.com##.closeBg-998534
 ||http://atianqi.com
 ||https://atianqi.com
 ||atianqi.com
-@@@@https://tv.aiseet.atianqi.com
 @@http://tv.aiseet.atianqi.com
 @@http://vv.play.aiseet.atianqi.com
 @@@@https://vv.play.aiseet.atianqi.com
